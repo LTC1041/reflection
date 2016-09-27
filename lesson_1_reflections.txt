@@ -1,0 +1,6 @@
+Q:What are the advantages of having multiple versions of a code?
+A:To be able to find out bugs easily. Of course, keep track of the history.
+
+Q:What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+A: Auto backup is needed to prevent losing the code unintentionally. However, commit manually is better from a structure point of view.
+
